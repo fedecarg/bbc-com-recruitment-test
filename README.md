@@ -6,7 +6,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 - Create a GitHub repository ([help](https://guides.github.com/activities/hello-world/))
 - Develop a web application
 
-The test is designed to assess your interest and experience in web development. We want to see your code, your approach and your talent. Once you're done commit your changes, create a Pull Request and send us the link to your repo.
+The test is designed to assess your interest and experience in web development. We want to see your code, your approach and your talent.
 
 ## Task requirements
 
@@ -21,6 +21,8 @@ The task is to create a responsive web application that you can use to see the l
 Test data is available at [https://gist.githubusercontent.com...](https://gist.githubusercontent.com/fedecarg/5772727ae899890d5bcf758a437e7fe5/raw/d030cd98ad5015707be919523b5f8710cbc6c623/bbc_news_test_data.json), use it to get video information, including image, caption, section and duration.
 
 Scale the image appropriately by replacing the `$recipe` placeholder in the `media.image.href` url with your desired size. The available image resolutions are shown [here](https://developer.bbc.co.uk/content/image-recipes). 
+
+One of the requirements is to keep your commits atomic. Keep them small so it is easier for us to review your code and see each incremental change. Once you're done, create a Pull Request and send us the link to your repo.
 
 ## User Stories
 
